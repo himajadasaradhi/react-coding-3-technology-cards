@@ -1,0 +1,56 @@
+.card-1 {
+  border-top: 5px solid #ff4f64;
+  background-color: white;
+  border-radius: 20px;
+  margin: 20px;
+  width: 323px;
+}
+
+.card-2 {
+  border-top: 5px solid #00a8e7;
+  background-color: white;
+  border-radius: 20px;
+  margin: 20px;
+  margin: 20px;
+  width: 323px;
+}
+
+.card-3 {
+  border-top: 5px solid #44c4a1;
+  background-color: white;
+  border-radius: 20px;
+  margin: 20px;
+  margin: 20px;
+  width: 323px;
+}
+
+.card-4 {
+  border-top: 5px solid #fcc200;
+  background-color: white;
+  border-radius: 20px;
+  margin: 20px;
+  margin: 20px;
+  width: 323px;
+}
+
+/* Write CSS code here.  */
+.para {
+  font-size: 15px;
+  text-align: left;
+  margin-left: 20px;
+}
+.heading {
+  font-size: 18px;
+  text-align: left;
+  margin-left: 20px;
+}
+.img-container {
+  display: flex;
+  justify-content: flex-end;
+}
+.image {
+  height: 80px;
+  width: 80px;
+  padding-bottom: 15px;
+  padding-right: 15px;
+}
